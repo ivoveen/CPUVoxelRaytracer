@@ -1,2 +1,5 @@
-# CPUVoxelRaytracer
-My third project at BUAS, a CPU voxel raytracer with mirrors, glass and even smoke!
+This template is intended for students of Breda University.
+
+Code is fully public domain. Use as you please.
+
+Contact me at bikker.j@gmail.com.
